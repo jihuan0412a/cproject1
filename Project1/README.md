@@ -3,14 +3,40 @@
 
 ## 목차
  [깃허브 데스크톱](#깃허브-데스크톱)
-
+<hr/>
  # 깃허브 데스크톱
 
  + 설치 방법
    >https://desktop.github.com/download/
-   
 
  # 수업 진행 방법
   1~2교시 과제있다면 과제 솔루션 및 등등
   즉 강사님의 시간
   3교시 필기 시간 과제 미리미리 풀기 가능
+<hr/>
+
+# 코드 기본 구성
++ 전처리기
++ main
+
+```c
+#include <stdio.h>
+
+int main()
+{
+   printf("C programming");
+   return 0;
+}
+```
+# printf
+> stdio.h에서 제공해주는 c언어의 대표적인 문장 출력용 기능(함수)입니다.<br>#이건 엔터를 의미합니다.
+> 일반적으로는printf("작성하고 싶은 물장");을 작성해 사용합니다.
+
+예시)
+```c
+int main()
+{
+    printf("today good dat to study");
+    return 0;
+}
+```
