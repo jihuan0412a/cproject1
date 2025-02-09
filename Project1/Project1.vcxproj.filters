@@ -18,5 +18,8 @@
     <ClCompile Include="4.변수의 입력 기능.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="3.변수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
