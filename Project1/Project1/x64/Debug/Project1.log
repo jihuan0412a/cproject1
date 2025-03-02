@@ -1,3 +1,6 @@
-﻿  8.숲속 동물 테스트.c
-C:\jihuan0412\cproject1\Project1\8.숲속 동물 테스트.c(14,2): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+﻿  21.문자열 관련 기능.c
+C:\jihuan0412\cproject1\Project1\21.문자열 관련 기능.c(29,9): warning C4477: 'printf' : 서식 문자열 '%lu'에 'unsigned long' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\jihuan0412\cproject1\Project1\21.문자열 관련 기능.c(30,9): warning C4477: 'printf' : 서식 문자열 '%lu'에 'unsigned long' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\jihuan0412\cproject1\Project1\21.문자열 관련 기능.c(34,9): warning C4477: 'printf' : 서식 문자열 '%lu'에 'unsigned long' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\jihuan0412\cproject1\Project1\21.문자열 관련 기능.c(35,9): warning C4477: 'printf' : 서식 문자열 '%lu'에 'unsigned long' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
   Project1.vcxproj -> C:\jihuan0412\cproject1\Project1\x64\Debug\Project1.exe
