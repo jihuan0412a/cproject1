@@ -1,6 +1,6 @@
-﻿  21.문자열 관련 기능.c
-C:\jihuan0412\cproject1\Project1\21.문자열 관련 기능.c(29,9): warning C4477: 'printf' : 서식 문자열 '%lu'에 'unsigned long' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
-C:\jihuan0412\cproject1\Project1\21.문자열 관련 기능.c(30,9): warning C4477: 'printf' : 서식 문자열 '%lu'에 'unsigned long' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
-C:\jihuan0412\cproject1\Project1\21.문자열 관련 기능.c(34,9): warning C4477: 'printf' : 서식 문자열 '%lu'에 'unsigned long' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
-C:\jihuan0412\cproject1\Project1\21.문자열 관련 기능.c(35,9): warning C4477: 'printf' : 서식 문자열 '%lu'에 'unsigned long' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
-  Project1.vcxproj -> C:\jihuan0412\cproject1\Project1\x64\Debug\Project1.exe
+﻿  28.1.함수연습2 문제 풀이.c
+  29.백트래킹 연습 문제.c
+  코드를 생성하고 있습니다...
+29.백트래킹 연습 문제.obj : error LNK2005: Backtracking이(가) 28.1.함수연습2 문제 풀이.obj에 이미 정의되어 있습니다.
+29.백트래킹 연습 문제.obj : error LNK2005: main이(가) 28.1.함수연습2 문제 풀이.obj에 이미 정의되어 있습니다.
+C:\jihuan0412\cproject1\Project1\x64\Debug\Project1.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
