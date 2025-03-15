@@ -1,6 +1,2 @@
-﻿  28.1.함수연습2 문제 풀이.c
-  29.백트래킹 연습 문제.c
-  코드를 생성하고 있습니다...
-29.백트래킹 연습 문제.obj : error LNK2005: Backtracking이(가) 28.1.함수연습2 문제 풀이.obj에 이미 정의되어 있습니다.
-29.백트래킹 연습 문제.obj : error LNK2005: main이(가) 28.1.함수연습2 문제 풀이.obj에 이미 정의되어 있습니다.
-C:\jihuan0412\cproject1\Project1\x64\Debug\Project1.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
+﻿  32.파일 입출력 실습.c
+  Project1.vcxproj -> C:\jihuan0412\cproject1\Project1\x64\Debug\Project1.exe
