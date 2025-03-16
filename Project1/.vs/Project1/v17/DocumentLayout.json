@@ -1,37 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\jihuan0412\\cproject1\\Project1\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{33B01102-E504-4ED1-9E52-5C612F40F08E}|Project1.vcxproj|C:\\jihuan0412\\cproject1\\Project1\\33.\uD30C\uC77C \uC785\uCD9C\uB825 \uBB38\uC81C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{33B01102-E504-4ED1-9E52-5C612F40F08E}|Project1.vcxproj|solutionrelative:33.\uD30C\uC77C \uC785\uCD9C\uB825 \uBB38\uC81C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "33.\uD30C\uC77C \uC785\uCD9C\uB825 \uBB38\uC81C.c",
-              "DocumentMoniker": "C:\\jihuan0412\\cproject1\\Project1\\33.\uD30C\uC77C \uC785\uCD9C\uB825 \uBB38\uC81C.c",
-              "RelativeDocumentMoniker": "33.\uD30C\uC77C \uC785\uCD9C\uB825 \uBB38\uC81C.c",
-              "ToolTip": "C:\\jihuan0412\\cproject1\\Project1\\33.\uD30C\uC77C \uC785\uCD9C\uB825 \uBB38\uC81C.c",
-              "RelativeToolTip": "33.\uD30C\uC77C \uC785\uCD9C\uB825 \uBB38\uC81C.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-15T02:03:06.77Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
